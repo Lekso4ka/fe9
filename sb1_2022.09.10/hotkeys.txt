@@ -1,0 +1,39 @@
+Ctrl => Cmd (Mac)
+Ctrl + s => сохранить файл
+Ctrl + z => отменить действие
+Ctrl + y (Ctrl+shift+z) => отменить отмену действия
+Ctrl + c => скопировать
+Ctrl + v => вставить
+Ctrl + x => вырезать
+Ctrl + n => создать новый файл
+Ctrl + o => открыть файл/папку
+
+Ctrl + / => закомментировать код / раскомментировать код
+
+Alt + z => разбить длинную строку на несколько подстрок
+
+Alt + Shift + стрелка вниз => скопировать кусок кода и добавить вниз
+Alt + стрелка вниз / вверх => переместить кусок кода вниз / вверх
+
+Онлайн редакторы (как VSCode)
+- codesandbox
+- replit
+
+Alt (Cmd) + tab => переключение между программами
+Ctrl + r => обновить страницу в браузере
+Ctrl + Shift + r => обновить страницу в браузере с очиской кеша
+
+Ctrl + Shift + i (Cmd + Opt + i) => открыть панель разработчика (Chrome/Safari)
+
+Полезные ссылки:
+https://dribbble.com/
+https://unsplash.com/
+https://unicode-table.com/en/00B0/
+https://www.behance.net/
+
+Читать про html/js:
+http://htmlbook.ru/
+https://metanit.com/web/html5/
+https://www.w3schools.com/tags/default.asp
+https://www.w3schools.com/cssref/default.asp
+https://developer.mozilla.org/ru/
