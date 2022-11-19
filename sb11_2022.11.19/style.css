@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+.container {
+    display: grid;
+    gap: 30px;
+    min-height: 100vh;
+    grid-template-columns: repeat(3, auto);
+    align-content: center;
+    justify-content: center;
+}
+.card {
+    width: 120px;
+    height: 120px;
+    box-shadow: 0 0 5px #000;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    position: relative;
+}
+.card h2 {
+    margin: 0;
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+.card i {
+    font-size: 3rem;
+}
+.card .likes {
+    position: absolute;
+    font-size: .8rem;
+    color: crimson;
+    font-weight: 600;
+    top: 2px;
+    right: 4px;
+}
+.card::before {
+    content: attr(title);
+    width: 60%;
+    background-color: #222;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    color: #fff;
+    left: -20%;
+    transform: rotate(-45deg);
+    top: 4%;
+    /* transform-origin: left center; */
+}
