@@ -1,0 +1,37 @@
+#square{
+	background-color: #c0392b;
+}
+
+.card{
+	padding: 10px;
+	margin: 10px;
+	display: inline-block;
+	background-color: #95a5a6;
+}
+
+.card{
+	display: flex;
+}
+
+.card>*{
+	padding: 10px ;
+	margin: 10px;
+}
+
+.card p{
+	padding: 0 50px;
+}
+
+#div1 p{
+	cursor: pointer;
+	padding: 10px;
+	background-color: #8e44ad;
+	color: #ecf0f1;
+}
+
+#div2 p{
+	cursor: pointer;
+	padding: 10px;
+	background-color: #ecf0f1;
+	color: #8e44ad;
+}
